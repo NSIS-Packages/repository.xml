@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- 
+		NSIS-Packages (Test)
+		https://github.com/NSIS-Packages/repository.xml
+	-->
+	<spec-version>2</spec-version>
+	<license name="net.sourceforge.nsis.License">
+        <title>NSIS license</title>
+        <url>http://nsis.sourceforge.net/License</url>
+    </license>
+    <package name="com.github.NSIS-Packages.Memento">
+        <title>Memento</title>
+        <url>http://tuxguitar.herac.com.ar</url>
+        <description>multitrack tablature editor and player</description>
+        <!-- <icon></icon> -->
+        <license>net.sourceforge.nsis.License</license>
+        <category>NSIS/Headers</category>
+    </package>
+    <version name="0,0" package="com.github.NSIS-Packages.Memento" type="zip">
+        <!-- <file path=".Npackd\Install.bat"></file> -->
+        <url>https://github.com/NSIS-Packages/Memento/archive/master.zip</url>
+        <sha1>bae86378a18ab4debb68c2744b505dccdc4198c1</sha1>
+    </version>
+</root>
