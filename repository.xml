@@ -18,7 +18,10 @@
         <category>NSIS/Headers</category>
     </package>
     <version name="1.0" package="com.github.NSIS-Packages.Memento" type="zip">
-        <file path=".Npackd\Install.bat">echo %name%</file>
+        <file path=".Npackd\Install.bat">
+            set %name%=.TestName&#13;
+            set %path%=.TestPath&#13;
+        </file>
         <url>https://github.com/NSIS-Packages/Memento/archive/master.zip</url>
         <sha1>90c194e5fb0874548d2d2531836bb7c7a094939d</sha1>
     </version>
