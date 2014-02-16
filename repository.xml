@@ -11,8 +11,8 @@
     </license>
     <package name="com.github.NSIS-Packages.Memento">
         <title>Memento</title>
-        <url>http://tuxguitar.herac.com.ar</url>
-        <description>multitrack tablature editor and player</description>
+        <url>https://github.com/NSIS-Packages/Memento</url>
+        <description>Test package</description>
         <!-- <icon></icon> -->
         <license>net.sourceforge.nsis.License</license>
         <category>NSIS/Headers</category>
