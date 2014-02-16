@@ -17,7 +17,7 @@
         <license>net.sourceforge.nsis.License</license>
         <category>NSIS/Headers</category>
     </package>
-    <version name="0.0" package="com.github.NSIS-Packages.Memento" type="zip">
+    <version name="1.0" package="com.github.NSIS-Packages.Memento" type="zip">
         <!-- <file path=".Npackd\Install.bat"></file> -->
         <url>https://github.com/NSIS-Packages/Memento/archive/master.zip</url>
         <sha1>bae86378a18ab4debb68c2744b505dccdc4198c1</sha1>
