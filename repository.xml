@@ -13,7 +13,7 @@
         <title>Memento</title>
         <url>https://github.com/NSIS-Packages/Memento</url>
         <description>Test package</description>
-        <!-- <icon></icon> -->
+        <icon>https://raw.github.com/NSIS-Packages/repository.xml/master/default.png</icon>
         <license>net.sourceforge.nsis.License</license>
         <category>NSIS/Headers</category>
     </package>
