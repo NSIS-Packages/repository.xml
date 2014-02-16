@@ -20,6 +20,6 @@
     <version name="1.0" package="com.github.NSIS-Packages.Memento" type="zip">
         <file path=".Npackd\Install.bat">echo %name%</file>
         <url>https://github.com/NSIS-Packages/Memento/archive/master.zip</url>
-        <sha1>f0f3c2d84302a1e16eeced5fc8db2c11000a24b6</sha1>
+        <sha1>90c194e5fb0874548d2d2531836bb7c7a094939d</sha1>
     </version>
 </root>
