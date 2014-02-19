@@ -18,7 +18,7 @@
         <category>NSIS/Headers</category>
     </package>
     <version name="1.0" package="com.github.NSIS-Packages.Memento" type="zip">
-        <dependency package="net.sourceforge.nsis" versions="2.46">
+        <dependency package="net.sourceforge.nsis" versions="[2)">
 		    <variable>NSIS</variable>
 		</dependency>
 		<file path=".Npackd\Install.bat">
