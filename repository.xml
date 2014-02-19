@@ -18,12 +18,13 @@
         <category>NSIS/Headers</category>
     </package>
     <version name="1.0" package="com.github.NSIS-Packages.Memento" type="zip">
-        <dependency package="net.sourceforge.nsis" versions="[2.46)">
+        <dependency package="net.sourceforge.nsis" versions="2.46">
 		    <variable>NSIS</variable>
 		</dependency>
 		<file path=".Npackd\Install.bat">
-			move *.* "%NSIS%"</file>
+			move *.* "%NSIS%"
+		</file>
         <url>https://github.com/NSIS-Packages/Memento/archive/master.zip</url>
-        <sha1>90c194e5fb0874548d2d2531836bb7c7a094939d</sha1>
+        <!-- <sha1></sha1> -->
     </version>
 </root>
